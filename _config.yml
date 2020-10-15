@@ -1,1 +1,11 @@
+# basic options
+title: CircusDad Jekyll Site
+author: CircusDad
+email: NotForYou@email.com
+description: A Jekyll Site Built in GitHub
+twitter_username: CircusDad
+github_username:  CircusDad
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-architect
